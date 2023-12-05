@@ -41,7 +41,7 @@
 ### 类似官网风格
 
 
-- [ 🔐 ] [https://chatgpt-cn.co](https://chatgpt-cn.co/)
+- [ 🔐 ] [https://ai7.pro](https://ai7.pro/)
 
 - [ 🆓🔔 ] [https://gpt4.gravityengine.cc/](https://gpt4.gravityengine.cc/) - 2023-05-16
 
