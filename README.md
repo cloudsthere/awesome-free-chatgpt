@@ -12,7 +12,7 @@
 
 |                                                                             🏆 赞助商 🏆                                                                              |
   |:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 👉 [AiDoGe - kjshsh.com](https://kjshsh.com) 免费，稳定，GPT4，Midjourney 绘图 AI ![recommend](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png) |
+| 👉 [AI7号 - ai7.pro](https://ai7.pro) 免费，稳定，GPT4 ![recommend](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/images/other/recommend.png) |
 
 ---
 
@@ -41,7 +41,7 @@
 ### 类似官网风格
 
 
-- [ 🔐 ] [https://ai7.pro](https://ai7.pro/)
+- [ 🆓🔔 ] [https://ai7.pro](https://ai7.pro/)
 
 - [ 🆓🔔 ] [https://gpt4.gravityengine.cc/](https://gpt4.gravityengine.cc/) - 2023-05-16
 
